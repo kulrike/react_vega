@@ -1,0 +1,21 @@
+.post {
+    width: 300px;
+    min-height: 50px;
+    background-color: rgba(0, 47, 255, 0.479);
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 5px grey;
+}
+
+.postArrWrapper {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+span {
+    margin: 0 3px;
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+.avatar {
+    width: 50px;
+    height: 50px;
+}
+
+.activePage {
+    font-weight: bold;
+}
+
+.pagination {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ .pagination span {
+    cursor: pointer;
+    margin: 0 3px;
+}
+
+
+

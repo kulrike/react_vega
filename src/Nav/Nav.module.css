@@ -1,0 +1,10 @@
+.wrapper {
+    min-height: 900px;
+    width: 225px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    box-shadow: 2px 0px 5px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
